@@ -28,6 +28,9 @@ const agatha = {
 
 ---
 
-![Agatha's GitHub stats](https://github-readme-stats.vercel.app/api?username=agatha&show_icons=true&theme=radical)
+<br/>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kanyorok)](https://github.com/anuraghazra/github-readme-stats)
+![](https://github-readme-stats.vercel.app/api?username=kanyorok&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+<br/>
 
 ⭐️ From [@Agatha](https://github.com/Mwan3kii)
