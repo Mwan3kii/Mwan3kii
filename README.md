@@ -4,7 +4,7 @@
 <p><em>Software Enginner at <a href="http://www.unb.br">ALX</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Developer Consultant at <a href="https://codefront.co.ke/">CODEFRONT</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
-[![Twitter: Agatha Mwaniki](https://img.shields.io/twitter/follow/Agatha Mwaniki?style=social)](https://x.com/AgathaMwaniki)
+[![Twitter: Agatha Mwaniki](https://img.shields.io/x/follow/Agatha Mwaniki?style=social)](https://x.com/AgathaMwaniki)
 [![Linkedin: Agatha Mwaniki](https://img.shields.io/badge/-agathamwaniki-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/agatha-mwaniki/)](https://www.linkedin.com/in/agatha-mwaniki/)
 [![GitHub Agatha](https://img.shields.io/github/followers/agatha?label=follow&style=social)](https://github.com/Mwan3kii)
 
