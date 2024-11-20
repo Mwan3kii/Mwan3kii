@@ -28,4 +28,6 @@ const agatha = {
 
 ---
 
+![Agatha's GitHub stats](https://github-readme-stats.vercel.app/api?username=agatha&show_icons=true&theme=radical)
+
 ⭐️ From [@Agatha](https://github.com/Mwan3kii)
